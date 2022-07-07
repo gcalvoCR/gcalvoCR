@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Gabriel Calvo Vargas, currently located in Costa Rica where I enjoy working for great companies and great projects.
 - 👀 I’m interested in a wide variety of technologies and programming languages, including Go, Java, C#, Python and JS. 
-- 🌱 I’m currently learning many things, from development, to QA, passing by AI and devops.
-- 💞️ I’m looking to collaborate on any project related to automation or development.
+- 💞️ I’m looking to collaborate on any project related to QA, Automation or Development.
 - 📫 If you want to get in touch, please feel free to do it via Linkedin looking for  @gcalvoCR, I'll be more than glad to chat with you!!!
